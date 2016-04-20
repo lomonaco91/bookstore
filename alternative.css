@@ -1,0 +1,49 @@
+table{
+    font-family:sans-serif
+    color: darkred;
+    border: 5px solid red;
+    padding: 20px;
+    width: 8000px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+table td{
+    border: 1px solid green;
+    padding: 10px;
+}
+table a{
+    margin: 0 auto;
+}
+label{
+    color: black;
+    font-family: sans-serif;
+    background-color: yellow;
+}
+#form{
+    width: 300px;
+    border: 10px solid gray;
+    padding: 5px;
+    margin: 0 auto;
+}
+.text_img p{
+    display: inline-block;
+    width: 50%;
+    margin:2%;
+    vertical-align:top;
+    font-family: cursive;
+    color: chartreuse;
+    background: blue;
+}
+img {
+  float:left; 
+  margin:0 20px 10px 0;
+}
+.under_text_img p{
+  float:bottom; 
+  margin:0 auto;
+  color:brown;
+}
+body{
+    color: forestgreen;
+}
