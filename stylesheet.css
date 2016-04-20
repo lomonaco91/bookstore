@@ -33,8 +33,15 @@ label{
     vertical-align:top;
     font-family: cursive;
     color: chartreuse;
+    background: black;
 }
 img {
   float:left; 
   margin:0 20px 10px 0;
+}
+.under_text_img p{
+  float:bottom; 
+  margin:0 auto;
+  color: darkgoldenrod;
+    
 }
